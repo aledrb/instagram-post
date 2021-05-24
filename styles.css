@@ -1,0 +1,92 @@
+body {
+	background: black;
+	margin: 0;
+}
+
+
+div.post h2 {  
+	margin: 4px;
+	padding-bottom: 0px
+	padding-top: 11px;
+	padding-left: 54px;
+}
+
+div.post {
+	background: white;
+	margin-top: 50px;
+}
+
+div.post img {
+	width: 100%;
+}
+
+div.container {
+	width: 588px;
+	margin: auto;
+}
+
+div.post p {
+	padding: 9px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	margin: 0;
+}
+
+div.post{
+	display: inline-block;
+}
+	
+
+.post-header {
+	float: left;
+	margin: 10px
+}
+
+.dots{
+
+	float: right;
+	padding-top: 5px;
+	padding-right: 10px;
+	color: gray;
+	font-size: 24px;
+    
+
+}
+
+.fab {
+	padding-left: 11px;
+	padding-top: 2px;
+    position: absolute;
+    font-size: 50px;
+
+}
+
+div.iconos {
+	position: absolute;
+}
+
+
+.far {
+	font-size: 30px;
+	display: inline;
+	padding-left: 10px;
+}
+
+
+.save {
+	float: right;
+	margin: -27px;
+	padding-right: 34px;
+
+}
+
+div.reader-text .rigo{
+	display: flex;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    padding-left: 60px;
+    padding-bottom: 10px;
+}
